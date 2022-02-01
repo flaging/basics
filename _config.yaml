@@ -1,1 +1,8 @@
-theme: jekyll-theme-slate
+---
+title: 福来鸽的训练室
+locale: zh
+
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+author: Flaging
