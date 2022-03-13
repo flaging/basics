@@ -2,7 +2,7 @@
 
 ## VIM 的模式切换
 
-```mermaid
+```mermaid!
 flowchart LR
 A[normal mode]--> |i| B[insert mode]
 A-->|R|C[replace mode]
