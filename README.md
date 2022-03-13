@@ -7,5 +7,6 @@
 * 编译工具（以C++为主）
 * C++的高阶用法（模板以及新版本特性）
 * [LeetCode 每日一题](./leetcode-everyday.md)
+* 日常工具：[vim](./vim.md)
 
 如果整理内容你有帮助，欢迎star；如发现错漏或者建议，欢迎提issue。
